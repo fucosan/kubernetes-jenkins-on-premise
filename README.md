@@ -1,7 +1,7 @@
 # Kubernetes Manifests for Jenkins Deployment on kubernetes (on-premise)
 
 Jenkins is automation tool that we use to manage kubernetes cluster.
-The steps that we are use to install jenkins here is almost simmilar with explaination on jenkins official [https://www.jenkins.io/doc/book/installing/kubernetes/](documentation)
+The steps that we are use to install jenkins here is almost simmilar with explaination on jenkins official documentaion [https://www.jenkins.io/doc/book/installing/kubernetes/]
 
 To have jenkins running on kubernetes pod make sure kubernetes is already setup. we can check kubctl with command:
 
