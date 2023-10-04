@@ -19,7 +19,7 @@ spec:
       serviceAccountName: jenkins-admin
       containers:
         - name: jenkins
-          image: jenkins/jenkins:lts
+          image: kamalakb/jenkins-with-awscli-docker-kubectl:latest
           resources:
             limits:
               memory: "2Gi"
